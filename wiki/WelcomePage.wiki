@@ -1,5 +1,0 @@
-#summary Welcome to RLog project page.
-
-RLog has been a stand-alone logging library for C++ since 2002.  It was originally a set of logging classes embedded in [http://arg0.net/encfs EncFS] (an encrypted filesystem based on [http://fuse.sourceforge.net/ FUSE]), but was broken off into a separate library so it could be reused.
-
-For more information, see the homepage link on the right.
